@@ -8,8 +8,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/sagikazarmark/modern-go-application/internal/app/mga/todo/todoadapter/ent/predicate"
-	"github.com/sagikazarmark/modern-go-application/internal/app/mga/todo/todoadapter/ent/todoitem"
+	"github.com/piotr-rusin/playing-with-golang/internal/app/mga/todo/todoadapter/ent/predicate"
+	"github.com/piotr-rusin/playing-with-golang/internal/app/mga/todo/todoadapter/ent/todoitem"
 
 	"entgo.io/ent"
 )

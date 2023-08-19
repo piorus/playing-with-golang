@@ -7,7 +7,7 @@ package todogen
 import (
 	"context"
 	"emperror.dev/errors"
-	"github.com/sagikazarmark/modern-go-application/internal/app/mga/todo"
+	"github.com/piotr-rusin/playing-with-golang/internal/app/mga/todo"
 )
 
 // EventBus is a generic event bus.

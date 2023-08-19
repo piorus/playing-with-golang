@@ -2,7 +2,7 @@
 
 package runtime
 
-// The schema-stitching logic is generated in github.com/sagikazarmark/modern-go-application/internal/app/mga/todo/todoadapter/ent/runtime.go
+// The schema-stitching logic is generated in github.com/piotr-rusin/playing-with-golang/internal/app/mga/todo/todoadapter/ent/runtime.go
 
 const (
 	Version = "(devel)" // Version of ent codegen.

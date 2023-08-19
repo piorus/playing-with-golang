@@ -1,4 +1,4 @@
-module github.com/sagikazarmark/modern-go-application
+module github.com/piotr-rusin/playing-with-golang
 
 go 1.17
 

@@ -8,7 +8,7 @@ import (
 	"go.opencensus.io/stats/view"
 	"go.opencensus.io/trace"
 
-	todo2 "github.com/sagikazarmark/modern-go-application/internal/app/mga/todo"
+	todo2 "github.com/piotr-rusin/playing-with-golang/internal/app/mga/todo"
 )
 
 // LoggingMiddleware is a service level logging middleware.

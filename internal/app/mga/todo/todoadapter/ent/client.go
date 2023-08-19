@@ -7,9 +7,9 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/sagikazarmark/modern-go-application/internal/app/mga/todo/todoadapter/ent/migrate"
+	"github.com/piotr-rusin/playing-with-golang/internal/app/mga/todo/todoadapter/ent/migrate"
 
-	"github.com/sagikazarmark/modern-go-application/internal/app/mga/todo/todoadapter/ent/todoitem"
+	"github.com/piotr-rusin/playing-with-golang/internal/app/mga/todo/todoadapter/ent/todoitem"
 
 	"entgo.io/ent/dialect"
 	"entgo.io/ent/dialect/sql"
